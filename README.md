@@ -66,7 +66,7 @@ python object_tracking.py
 
 ---
 
-### **🙌 Contributors**
+### ** Contributors**
 - **DHEEPAK.G** - Developer  
 - **GitHub:** [@lillibot2054](https://github.com/lillibot2054)  
 
