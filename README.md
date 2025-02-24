@@ -35,7 +35,7 @@ cd Object-Detection-and-Tracking
 
 #### **3️⃣ Run the Object Detection Script**
 ```bash
-python object_tracking.py
+python Object-Detection-and-Tracking.py
 ```
 
 ---
