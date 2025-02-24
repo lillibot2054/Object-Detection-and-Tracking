@@ -37,6 +37,10 @@ cd Object-Detection-and-Tracking
 ```bash
 python Object-Detection-and-Tracking.py
 ```
+### 🔹 Updated Version: `Object Detection and Tracking_Updated.py`  
+- **Improved accuracy and faster detection**  
+- **Better object tracking with optimized performance**  
+- **Fine-tuned confidence thresholds to reduce false positives**  
 
 ---
 
