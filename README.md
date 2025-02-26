@@ -78,7 +78,7 @@ python Object-Detection-and-Tracking.py
 These updates improve the overall stability, accuracy, and efficiency of the object detection and tracking system. 🚀
 ---
 
-### **Contributors**
+### **Contributor**
 - **DHEEPAK.G** - Developer  
 - **GitHub:** [@lillibot2054](https://github.com/lillibot2054)  
 
