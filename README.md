@@ -67,7 +67,15 @@ python Object-Detection-and-Tracking.py
   ```bash
   python train.py --data custom.yaml --epochs 50
   ```
+### 🔄 **Update: Object Detection and Tracking Improvements**  
 
+#### **Enhancements in `Object Detection and Tracking.py`**  
+- **Refined Bounding Box Format**: Adjusted bounding box coordinates to match DeepSORT's expected input format `[left, top, width, height]`.  
+- **Improved YOLO Model Integration**: Enhanced detection reliability by correctly parsing and utilizing YOLO outputs.  
+- **Better Tracking Performance**: Optimized DeepSORT parameters for smoother and more accurate object tracking.  
+- **Bug Fixes**: Resolved issues where incorrect bounding box dimensions could affect tracking consistency.  
+
+These updates improve the overall stability, accuracy, and efficiency of the object detection and tracking system. 🚀
 ---
 
 ### ** Contributors**
